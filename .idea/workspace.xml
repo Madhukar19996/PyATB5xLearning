@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/Scr/ex_27102024/Lab003.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Fourth Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_27102024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_27102024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +48,46 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scr/ex_28102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scr/ex_28102024/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730003349388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1730003965123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730003965123</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fourth Commit">
+      <option name="closed" value="true" />
+      <created>1730004312082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730004312082</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fourth Commit">
+      <option name="closed" value="true" />
+      <created>1730113840040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730113840040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +161,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="Third commit" />
+    <MESSAGE value="Fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
   </component>
 </project>
