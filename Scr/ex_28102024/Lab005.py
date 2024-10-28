@@ -1,1 +1,6 @@
-print(max(100,123,54,-1,-1000,100001,"Piyush"))
+# 1+1=2 #SyntaxError
+# Source Code - Human readble code,code written by the humans - HLL
+# Source Code -> We have to follow some rules - Python rules
+
+print("Good", "Piyush", sep="#", end="=")
+print("Amit")

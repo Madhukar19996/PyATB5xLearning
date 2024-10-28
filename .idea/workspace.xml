@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Fourth Commit">
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Fifth Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +55,8 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning"
@@ -60,7 +68,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scr/ex_28102024/Lab001.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\Scr\ex_28102024\Lab004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.Lab004" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730113840040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fifth Commit">
+      <option name="closed" value="true" />
+      <created>1730114187760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730114187760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +179,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
+    <MESSAGE value="Fifth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit" />
   </component>
 </project>
