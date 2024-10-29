@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated till now commit">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab028.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,17 @@
     "Python.Lab015.executor": "Run",
     "Python.Lab016.executor": "Run",
     "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -110,8 +120,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_30102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_30102024/Lab018.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_30102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_30102024/Lab019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab019" />
+        <item itemvalue="Python.Lab018" />
         <item itemvalue="Python.Lab004" />
       </list>
     </recent_temporary>
@@ -196,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730115975631</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All the files are updated till now commit">
+      <option name="closed" value="true" />
+      <created>1730162885347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730162885347</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
