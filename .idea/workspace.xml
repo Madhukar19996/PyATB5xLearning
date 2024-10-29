@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Fifth Commit">
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated till now commit">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_30102024/Lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scr/ex_28102024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scr/ex_28102024/Lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +59,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning"
+    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -160,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730114187760</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All the files are updated till now commit">
+      <option name="closed" value="true" />
+      <created>1730115772007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730115772007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All the files are updated till now commit">
+      <option name="closed" value="true" />
+      <created>1730115975631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730115975631</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +216,7 @@
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth Commit" />
     <MESSAGE value="Fifth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit" />
+    <MESSAGE value="All the files are updated till now commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files are updated till now commit" />
   </component>
 </project>
