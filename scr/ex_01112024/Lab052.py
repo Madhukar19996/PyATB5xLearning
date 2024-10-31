@@ -1,0 +1,15 @@
+# WAP to calculate percentage of score
+eng_A=float(input(" Enter English Marks"))
+eng_T=float(input(" Enter English Marks"))
+maths_A=float(input(" Enter Maths Marks"))
+maths_T=float(input(" Enter Maths Marks"))
+physics_A=float(input(" Enter physics Marks"))
+physics_T=float(input(" Enter physics Marks"))
+chem_A=float(input(" Enter chem Marks"))
+chem_T=float(input(" Enter chem Marks"))
+com_A=float(input(" Enter com Marks"))
+com_T=float(input(" Enter com Marks"))
+Actual_marks= (eng_A+maths_A+physics_A+chem_A+com_A)
+Total_marks= (eng_T+maths_T+physics_T+chem_T+com_T)
+percentage = Actual_marks/Total_marks*100
+print("Your percentage is --->", percentage)
