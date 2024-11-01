@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the updated files are updated till now commit">
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab052.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the four  files are updated till now commit">
+      <change afterPath="$PROJECT_DIR$/scr/Task/task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab067.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +114,19 @@
     "Python.Lab050.executor": "Run",
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab067.executor": "Run",
     "Python.Lab_038.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -111,29 +140,7 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab049">
-    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_30102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_30102024/Lab019.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -222,13 +229,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_01112024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_01112024/Lab055.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab055" />
         <item itemvalue="Python.Lab049" />
         <item itemvalue="Python.Lab050" />
         <item itemvalue="Python.Lab034" />
         <item itemvalue="Python.Lab033" />
-        <item itemvalue="Python.Lab019" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730301990063</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="All the four  files are updated till now commit">
+      <option name="closed" value="true" />
+      <created>1730375173738</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730375173738</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +405,8 @@
     <MESSAGE value="All the  11 files are updated till now commit" />
     <MESSAGE value="All the  12 files are updated till now commit" />
     <MESSAGE value="All the updated files are updated till now commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the updated files are updated till now commit" />
+    <MESSAGE value="All the four  files are updated till now commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the four  files are updated till now commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
