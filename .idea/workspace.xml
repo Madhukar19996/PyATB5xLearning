@@ -4,27 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the four  files are updated till now commit">
-      <change afterPath="$PROJECT_DIR$/scr/Task/task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/task9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_01112024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/ex_02112024/Lab067.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated on 11 nov  commit">
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_06112024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_27102024/Lab003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_01112024/Lab_038.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/Lab_038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab066.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_02112024/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_27102024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_27102024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_27102024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_27102024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_27102024/Lab003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_28102024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_28102024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_28102024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_28102024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_28102024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_28102024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_30102024/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/Lab029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/ex_31102024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/Lab037.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +135,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab-069.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -127,7 +198,18 @@
     "Python.Lab064.executor": "Run",
     "Python.Lab065.executor": "Run",
     "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab088.executor": "Run",
     "Python.Lab_038.executor": "Run",
+    "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -138,6 +220,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct" />
     </key>
   </component>
   <component name="RunManager">
@@ -253,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab033" />
         <item itemvalue="Python.Lab055" />
         <item itemvalue="Python.Lab049" />
         <item itemvalue="Python.Lab050" />
         <item itemvalue="Python.Lab034" />
-        <item itemvalue="Python.Lab033" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730375173738</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="All the files are updated on 11 nov  commit">
+      <option name="closed" value="true" />
+      <created>1730472844615</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730472844615</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,13 +500,14 @@
     <MESSAGE value="All the  12 files are updated till now commit" />
     <MESSAGE value="All the updated files are updated till now commit" />
     <MESSAGE value="All the four  files are updated till now commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the four  files are updated till now commit" />
+    <MESSAGE value="All the files are updated on 11 nov  commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files are updated on 11 nov  commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scr/ex_31102024/Lab031.py</url>
+          <url>file://$PROJECT_DIR$/scr/Oct/ex_31102024/Lab031.py</url>
           <line>40</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
