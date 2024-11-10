@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated on 11 nov  commit">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_07112024/__init__.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated on 8 nov  commit">
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Task_011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Task_012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Task/task10.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Task/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Task/task8.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Task/task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +137,8 @@
     "Python.Lab098.executor": "Run",
     "Python.Lab099.executor": "Run",
     "Python.Lab_038.executor": "Run",
+    "Python.Task_011.executor": "Run",
+    "Python.Task_012.executor": "Run",
     "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -156,6 +152,9 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\Oct_Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct" />
     </key>
@@ -409,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730472844615</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="All the files are updated on 8 nov  commit">
+      <option name="closed" value="true" />
+      <created>1731032585594</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731032585596</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +442,8 @@
     <MESSAGE value="All the updated files are updated till now commit" />
     <MESSAGE value="All the four  files are updated till now commit" />
     <MESSAGE value="All the files are updated on 11 nov  commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files are updated on 11 nov  commit" />
+    <MESSAGE value="All the files are updated on 8 nov  commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files are updated on 8 nov  commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
