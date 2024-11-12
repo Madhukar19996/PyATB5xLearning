@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="All the files are updated on 8 nov  commit">
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Task_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Task_012.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Task 1 and Task 2 completed on 10/11/2024">
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_12112024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_28102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_Class02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Task/task10.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Task/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Task/task8.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Task/task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/task9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,13 +141,17 @@
     "Python.Lab098.executor": "Run",
     "Python.Lab099.executor": "Run",
     "Python.Lab_038.executor": "Run",
+    "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
     "Python.Task_012.executor": "Run",
+    "Python.Task_Class.executor": "Run",
+    "Python.Task_Class02.executor": "Run",
+    "Python.Tasks_Opps_Concept.executor": "Run",
     "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning",
+    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning/scr/Oct/ex_31102024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -159,7 +167,7 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.__init__">
     <configuration name="Lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -174,50 +182,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_31102024/Lab033.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_31102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_31102024/Lab034.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_01112024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_01112024/Lab049.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,13 +234,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tasks_Opps_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Task/Oct_Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Lab050" />
+        <item itemvalue="Python.Tasks_Opps_Concept" />
         <item itemvalue="Python.Lab033" />
         <item itemvalue="Python.Lab055" />
-        <item itemvalue="Python.Lab049" />
-        <item itemvalue="Python.Lab050" />
-        <item itemvalue="Python.Lab034" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731032585596</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task 1 and Task 2 completed on 10/11/2024">
+      <option name="closed" value="true" />
+      <created>1731206109388</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731206109388</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +459,8 @@
     <MESSAGE value="All the four  files are updated till now commit" />
     <MESSAGE value="All the files are updated on 11 nov  commit" />
     <MESSAGE value="All the files are updated on 8 nov  commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files are updated on 8 nov  commit" />
+    <MESSAGE value="Task 1 and Task 2 completed on 10/11/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and Task 2 completed on 10/11/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -452,6 +469,16 @@
           <url>file://$PROJECT_DIR$/scr/Oct/ex_31102024/Lab031.py</url>
           <line>40</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
