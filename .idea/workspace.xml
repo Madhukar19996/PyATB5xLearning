@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Task 1 and Task 2 completed on 10/11/2024">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_01112024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_12112024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_28102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_30102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Oct/ex_31102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Task_Class02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_012_If-else program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +140,9 @@
     "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
     "Python.Task_012.executor": "Run",
+    "Python.Task_012_If-else program.executor": "Run",
+    "Python.Task_013.executor": "Run",
+    "Python.Task_014.executor": "Run",
     "Python.Task_Class.executor": "Run",
     "Python.Task_Class02.executor": "Run",
     "Python.Tasks_Opps_Concept.executor": "Run",
@@ -157,17 +156,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct\ex_31102024" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct\ex_30102024" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct\ex_28102024" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct\ex_27102024" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_01112024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\Oct_Task" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager">
     <configuration name="Lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
