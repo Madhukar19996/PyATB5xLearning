@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="Task 1 and Task 2 completed on 10/11/2024">
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_012_If-else program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/Task_014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/12112024_Task_Solutions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/__init__.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="12-11-2024 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_12112024/Lab-100_Classes and objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_12112024/Lab-101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_13112024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +63,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab-069.executor": "Run",
+    "Python.Lab-100_Classes and objects.executor": "Run",
+    "Python.Lab-101.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -137,6 +149,16 @@
     "Python.Lab098.executor": "Run",
     "Python.Lab099.executor": "Run",
     "Python.Lab_038.executor": "Run",
+    "Python.Lab_103.executor": "Run",
+    "Python.Lab_104.executor": "Run",
+    "Python.Lab_105.executor": "Run",
+    "Python.Lab_106.executor": "Run",
+    "Python.Lab_107.executor": "Run",
+    "Python.Lab_108.executor": "Run",
+    "Python.Lab_110.executor": "Run",
+    "Python.Lab_111.executor": "Run",
+    "Python.Lab_112.executor": "Run",
+    "Python.Lab_113.executor": "Run",
     "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
     "Python.Task_012.executor": "Run",
@@ -163,11 +185,11 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_01112024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\Oct_Task" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct" />
     </key>
   </component>
   <component name="RunManager">
@@ -215,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_01112024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov/ex_13112024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_01112024/Lab055.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_106.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_106" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Lab050" />
         <item itemvalue="Python.Tasks_Opps_Concept" />
         <item itemvalue="Python.Lab033" />
-        <item itemvalue="Python.Lab055" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +457,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731206109388</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="12-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731416333822</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731416333822</updated>
+    </task>
+    <task id="LOCAL-00018" summary="12-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731416352571</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731416352571</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,7 +501,8 @@
     <MESSAGE value="All the files are updated on 11 nov  commit" />
     <MESSAGE value="All the files are updated on 8 nov  commit" />
     <MESSAGE value="Task 1 and Task 2 completed on 10/11/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and Task 2 completed on 10/11/2024" />
+    <MESSAGE value="12-11-2024 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-11-2024 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,6 +521,11 @@
           <url>file://$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_Opps_Concept.py</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Nov/ex_12112024/Lab-101.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
