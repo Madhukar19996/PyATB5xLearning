@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="14-11-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_13112024/ex_14112024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks_1_Triangle Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks_2_Leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -146,6 +152,9 @@
     "Python.Lab_113.executor": "Run",
     "Python.Lab_114.executor": "Run",
     "Python.Lab_115.executor": "Run",
+    "Python.Lab_117.executor": "Run",
+    "Python.Lab_118.executor": "Run",
+    "Python.Lab_119.executor": "Run",
     "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
     "Python.Task_012.executor": "Run",
@@ -154,6 +163,8 @@
     "Python.Task_014.executor": "Run",
     "Python.Task_Class.executor": "Run",
     "Python.Task_Class02.executor": "Run",
+    "Python.Tasks_1_Triangle Classifier.executor": "Run",
+    "Python.Tasks_2_Leapyear.executor": "Run",
     "Python.Tasks_Opps_Concept.executor": "Run",
     "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -172,36 +183,14 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_01112024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\Oct_Task" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_31102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_31102024/Lab033.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -238,6 +227,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_106.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_118" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov/ex_14112024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_118" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Lab_106" />
         <item itemvalue="Python.Lab050" />
         <item itemvalue="Python.Tasks_Opps_Concept" />
-        <item itemvalue="Python.Lab033" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +487,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731578035962</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="14-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731579382712</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1731579382712</updated>
+    </task>
+    <task id="LOCAL-00022" summary="14-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731579425671</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1731579425671</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,6 +557,10 @@
           <url>file://$PROJECT_DIR$/scr/Nov/ex_12112024/Lab-101.py</url>
           <line>19</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks_2_Leapyear.py</url>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
