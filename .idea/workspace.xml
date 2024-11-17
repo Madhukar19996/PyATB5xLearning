@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="14-11-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks_1_Triangle Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks_2_Leapyear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Oct_Task/Tasks_encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/Task_FizzBuzz_Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +160,8 @@
     "Python.Task_014.executor": "Run",
     "Python.Task_Class.executor": "Run",
     "Python.Task_Class02.executor": "Run",
+    "Python.Task_FizzBuzz_Problem.executor": "Run",
+    "Python.Tasks.executor": "Run",
     "Python.Tasks_1_Triangle Classifier.executor": "Run",
     "Python.Tasks_2_Leapyear.executor": "Run",
     "Python.Tasks_Opps_Concept.executor": "Run",
@@ -503,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731579425671</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="14-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731662196573</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731662196573</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
