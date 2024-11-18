@@ -32,3 +32,4 @@ def greet():
 
 # calling
 greet()
+greet()

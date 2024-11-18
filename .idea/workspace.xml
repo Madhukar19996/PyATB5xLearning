@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="14-11-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_Sol_14112024/Tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/Task_FizzBuzz_Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/__init__.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="17-11-2024 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab56_a_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab56_b_Funtions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/Tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_sol_16112024/Tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +137,8 @@
     "Python.Lab097.executor": "Run",
     "Python.Lab098.executor": "Run",
     "Python.Lab099.executor": "Run",
+    "Python.Lab56_a_Functions.executor": "Run",
+    "Python.Lab56_b_Funtions.executor": "Run",
     "Python.Lab_038.executor": "Run",
     "Python.Lab_103.executor": "Run",
     "Python.Lab_104.executor": "Run",
@@ -510,7 +513,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731662196573</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="17-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731857789050</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731857789050</updated>
+    </task>
+    <task id="LOCAL-00025" summary="17-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1731857958148</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731857958148</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +559,8 @@
     <MESSAGE value="Task 1 and Task 2 completed on 10/11/2024" />
     <MESSAGE value="12-11-2024 files are pushed" />
     <MESSAGE value="14-11-2024 files are pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="14-11-2024 files are pushed" />
+    <MESSAGE value="17-11-2024 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="17-11-2024 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
