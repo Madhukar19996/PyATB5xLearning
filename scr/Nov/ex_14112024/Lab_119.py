@@ -19,7 +19,7 @@ class Son(Father):
 father_obj = Father()
 father_obj.car()
 print(father_obj.key)
-father_obj.truck()
-
+#father_obj.truck()
+#
 son_obj = Son()
-son_obj.car()
+son_obj.truck()
