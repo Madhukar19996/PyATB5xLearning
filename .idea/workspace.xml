@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="18-11-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab056_d_funtions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057_f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057_g.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057_h.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057_i.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab057_j.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_02112024/Lab_56_e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_138.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_119.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_119.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +177,12 @@
     "Python.Lab_130.executor": "Run",
     "Python.Lab_131.executor": "Run",
     "Python.Lab_132.executor": "Run",
+    "Python.Lab_133.executor": "Run",
+    "Python.Lab_134.executor": "Run",
+    "Python.Lab_135.executor": "Run",
+    "Python.Lab_136.executor": "Run",
+    "Python.Lab_137.executor": "Run",
+    "Python.Lab_138.executor": "Run",
     "Python.Lab_56_e.executor": "Run",
     "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
@@ -583,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731889586475</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="18-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1732066661506</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1732066661506</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
