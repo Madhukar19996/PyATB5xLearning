@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="18-11-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_138.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="19-11-2024 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_22112024_Upper_and_Lower_Tri/Left_Tri_Star_Pattern_Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_22112024_Upper_and_Lower_Tri/Right_Triangle_Star_Pattern_Sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_22112024_Upper_and_Lower_Tri/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_138.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_138.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +182,8 @@
     "Python.Lab_137.executor": "Run",
     "Python.Lab_138.executor": "Run",
     "Python.Lab_56_e.executor": "Run",
+    "Python.Left_Tri_Star_Pattern_Solution.executor": "Run",
+    "Python.Right_Triangle_Star_Pattern_Sol.executor": "Run",
     "Python.Task_003.executor": "Run",
     "Python.Task_011.executor": "Run",
     "Python.Task_012.executor": "Run",
@@ -214,9 +214,9 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_01112024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\Oct_Task" />
     </key>
@@ -582,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732066661506</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="19-11-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1732070354239</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1732070354239</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,7 +622,8 @@
     <MESSAGE value="14-11-2024 files are pushed" />
     <MESSAGE value="17-11-2024 files are pushed" />
     <MESSAGE value="18-11-2024 files are pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="18-11-2024 files are pushed" />
+    <MESSAGE value="19-11-2024 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-11-2024 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
