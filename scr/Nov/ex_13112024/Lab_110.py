@@ -19,4 +19,3 @@ class Person:
 object_Ref = Person()
 object_Ref.print_infor()
 print(a)
-print(b)
