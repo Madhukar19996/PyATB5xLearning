@@ -55,6 +55,12 @@ class Samsung:
         self.Mrp=Mrp
         print("Your Personal Desktop price is --->",self.Mrp)
 
+    def headphone(self):
+        print(" Headphone is working fine ")
+
+    def mouse(self):
+        print("Mouse is working is working fine ")
+
 
 
 
@@ -62,25 +68,32 @@ def System_On():
     pc_obj=PC()
 
     dis_obj=Antigleyer()
-    print("==============")
+    print("______________")
     dis_obj.dsp()
-    print("==============")
+    print("______________")
     Samsung.Logo()
-    print("==============")
+    print("______________")
     dol=Dobly()
-    print("==============")
+    print("______________")
     dol.spr()
-    print("==============")
+    print("______________")
     ddr4=DDR4()
-    print("==============")
+    print("______________")
     ddr4.rm()
-    print("==============")
+    print("______________")
     ssd=SSD()
-    print("==============")
+    print("______________")
     ssd.strg()
-    print("==============")
+    print("______________")
     Sam=Samsung()
-    print("===============")
+    print("______________")
+
+    Sam.headphone()
+    print("______________")
+
+    Sam.mouse()
+
+    print("______________")
 
     Sam.Price("48000")
 
