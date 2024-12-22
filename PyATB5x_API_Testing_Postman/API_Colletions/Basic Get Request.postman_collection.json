@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "fdd0b412-9c36-4a6f-bbd6-55d0df1419fa",
+		"name": "Basic Get Request",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31601688",
+		"_collection_link": "https://www.postman.com/madhukarpandey/workspace/pyatb5x/collection/31601688-fdd0b412-9c36-4a6f-bbd6-55d0df1419fa?action=share&source=collection_link&creator=31601688"
+	},
+	"item": [
+		{
+			"name": "Basic Get Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://google.com",
+					"protocol": "https",
+					"host": [
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

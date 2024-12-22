@@ -1,0 +1,231 @@
+{
+	"info": {
+		"_postman_id": "aabacc20-d080-4379-beda-6bb1653891f4",
+		"name": "Project#3 - Katalon Project - No Doc",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31601688",
+		"_collection_link": "https://www.postman.com/madhukarpandey/workspace/pyatb5x/collection/31601688-aabacc20-d080-4379-beda-6bb1653891f4?action=share&source=collection_link&creator=31601688"
+	},
+	"item": [
+		{
+			"name": "Login API",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "Cache-Control",
+						"value": "max-age=0"
+					},
+					{
+						"key": "Connection",
+						"value": "keep-alive"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/x-www-form-urlencoded"
+					},
+					{
+						"key": "Cookie",
+						"value": "PHPSESSID=ef7b8at3fpql890bd284ecmre8310n8h"
+					},
+					{
+						"key": "Origin",
+						"value": "https://katalon-demo-cura.herokuapp.com"
+					},
+					{
+						"key": "Referer",
+						"value": "https://katalon-demo-cura.herokuapp.com/profile.php"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "John Doe",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "ThisIsNotAPassword",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://katalon-demo-cura.herokuapp.com/authenticate.php",
+					"protocol": "https",
+					"host": [
+						"katalon-demo-cura",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"authenticate.php"
+					]
+				},
+				"description": "Generated from cURL: curl 'https://katalon-demo-cura.herokuapp.com/authenticate.php' \\\r\n  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \\\r\n  -H 'Accept-Language: en-US,en;q=0.9' \\\r\n  -H 'Cache-Control: max-age=0' \\\r\n  -H 'Connection: keep-alive' \\\r\n  -H 'Content-Type: application/x-www-form-urlencoded' \\\r\n  -H 'Cookie: PHPSESSID=ef7b8at3fpql890bd284ecmre8310n8h' \\\r\n  -H 'Origin: https://katalon-demo-cura.herokuapp.com' \\\r\n  -H 'Referer: https://katalon-demo-cura.herokuapp.com/profile.php' \\\r\n  -H 'Sec-Fetch-Dest: document' \\\r\n  -H 'Sec-Fetch-Mode: navigate' \\\r\n  -H 'Sec-Fetch-Site: same-origin' \\\r\n  -H 'Sec-Fetch-User: ?1' \\\r\n  -H 'Upgrade-Insecure-Requests: 1' \\\r\n  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \\\r\n  -H 'sec-ch-ua: \"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"' \\\r\n  -H 'sec-ch-ua-mobile: ?0' \\\r\n  -H 'sec-ch-ua-platform: \"Windows\"' \\\r\n  --data-raw 'username=John+Doe&password=ThisIsNotAPassword'"
+			},
+			"response": []
+		},
+		{
+			"name": "Make Appointment Request",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "Cache-Control",
+						"value": "max-age=0"
+					},
+					{
+						"key": "Connection",
+						"value": "keep-alive"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/x-www-form-urlencoded"
+					},
+					{
+						"key": "Cookie",
+						"value": "PHPSESSID=ef7b8at3fpql890bd284ecmre8310n8h"
+					},
+					{
+						"key": "Origin",
+						"value": "https://katalon-demo-cura.herokuapp.com"
+					},
+					{
+						"key": "Referer",
+						"value": "https://katalon-demo-cura.herokuapp.com/"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "document"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "navigate"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-User",
+						"value": "?1"
+					},
+					{
+						"key": "Upgrade-Insecure-Requests",
+						"value": "1"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "facility",
+							"value": "Hongkong CURA Healthcare Center",
+							"type": "text"
+						},
+						{
+							"key": "programs",
+							"value": "Medicare",
+							"type": "text"
+						},
+						{
+							"key": "visit_date",
+							"value": "22/12/2024",
+							"type": "text"
+						},
+						{
+							"key": "comment",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://katalon-demo-cura.herokuapp.com/appointment.php",
+					"protocol": "https",
+					"host": [
+						"katalon-demo-cura",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"appointment.php"
+					]
+				},
+				"description": "Generated from cURL: curl 'https://katalon-demo-cura.herokuapp.com/appointment.php' \\\r\n  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \\\r\n  -H 'Accept-Language: en-US,en;q=0.9' \\\r\n  -H 'Cache-Control: max-age=0' \\\r\n  -H 'Connection: keep-alive' \\\r\n  -H 'Content-Type: application/x-www-form-urlencoded' \\\r\n  -H 'Cookie: PHPSESSID=ef7b8at3fpql890bd284ecmre8310n8h' \\\r\n  -H 'Origin: https://katalon-demo-cura.herokuapp.com' \\\r\n  -H 'Referer: https://katalon-demo-cura.herokuapp.com/' \\\r\n  -H 'Sec-Fetch-Dest: document' \\\r\n  -H 'Sec-Fetch-Mode: navigate' \\\r\n  -H 'Sec-Fetch-Site: same-origin' \\\r\n  -H 'Sec-Fetch-User: ?1' \\\r\n  -H 'Upgrade-Insecure-Requests: 1' \\\r\n  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \\\r\n  -H 'sec-ch-ua: \"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"' \\\r\n  -H 'sec-ch-ua-mobile: ?0' \\\r\n  -H 'sec-ch-ua-platform: \"Windows\"' \\\r\n  --data-raw 'facility=Hongkong+CURA+Healthcare+Center&programs=Medicare&visit_date=22%2F12%2F2024&comment='"
+			},
+			"response": []
+		}
+	]
+}
