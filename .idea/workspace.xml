@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="9-12-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Task/Dec_Tasks/Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/Lab_157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/test_lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/test_lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/test_lab159_LearningAllureReport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Dec/pytest_Demo/test_lab160_pytest_GetRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyATB5xLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +44,9 @@
     &quot;accountId&quot;: &quot;003fde11-e5d0-4cff-bbe5-df7fbac26059&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -48,6 +58,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_lab157.test_test_case_1.executor": "Run",
+    "Python tests.Python tests for test_lab157.test_test_case_2.executor": "Run",
+    "Python tests.Python tests in test_lab157.py.executor": "Run",
+    "Python tests.pytest for test_lab158.test_method2.executor": "Run",
+    "Python tests.pytest for test_lab158.test_method3.executor": "Run",
+    "Python tests.pytest for test_lab160_pytest_GetRequest.test_get_request_positive.executor": "Run",
+    "Python tests.pytest in ex_25122024.executor": "Run",
+    "Python tests.pytest in test_Lab159.py.executor": "Run",
+    "Python tests.pytest in test_lab157.py.executor": "Run",
+    "Python tests.pytest in test_lab158.py.executor": "Run",
+    "Python tests.pytest in test_lab161.py.executor": "Run",
     "Python.Abstaction_Tasks_05_12_2024.executor": "Run",
     "Python.Lab-069.executor": "Run",
     "Python.Lab-100_Classes and objects.executor": "Run",
@@ -223,11 +244,14 @@
     "Python.Tasks_Opps_Concept.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
+    "Python.test_Lab159.executor": "Run",
+    "Python.test_lab157.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning/scr/Oct/ex_31102024",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Madhukar Pandey/PycharmProjects/pyATB5xLearning/scr/DEC/ex_25122024/test_Lab159.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -239,15 +263,15 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_01112024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Exceptions_and_filehandling " />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Mp" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task\12112024_Task_Solutions" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_lab160_pytest_GetRequest.test_get_request_positive">
+    <configuration name="test_Lab159" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/ex_01112024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/DEC/ex_25122024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/ex_01112024/Lab050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/DEC/ex_25122024/test_Lab159.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,108 +293,149 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab157.test_test_case_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov/ex_13112024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/pytest_Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_13112024/Lab_106.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab157.test_test_case_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_118" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_lab158.test_method2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov/ex_14112024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/pytest_Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_118.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab158.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_151" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_lab158.test_method3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov/ex_25112024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/pytest_Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/ex_25112024/Lab_151.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab158.test_method3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_lab160_pytest_GetRequest.test_get_request_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Nov" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/pytest_Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/Nov/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab160_pytest_GetRequest.test_get_request_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (PyATB5xLearning)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\Madhukar Pandey\\PycharmProjects\\pyATB5xLearning\\scr\\DEC\\ex_25122024&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_Lab159.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (PyATB5xLearning)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\Madhukar Pandey\\PycharmProjects\\pyATB5xLearning\\scr\\DEC\\ex_25122024\\test_Lab159.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_lab161.py" type="tests" factoryName="py.test" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="pyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\Madhukar Pandey\\PycharmProjects\\pyATB5xLearning\\scr\\DEC\\ex_25122024\\test_lab161.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_Lab159" />
+      <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024" />
+      <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_Lab159.py" />
+      <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_lab161.py" />
+      <item itemvalue="Python tests.pytest for test_lab160_pytest_GetRequest.test_get_request_positive" />
+      <item itemvalue="Python tests.Python tests for test_lab157.test_test_case_2" />
+      <item itemvalue="Python tests.pytest for test_lab158.test_method2" />
+      <item itemvalue="Python tests.pytest for test_lab158.test_method3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.Lab_151" />
-        <item itemvalue="Python.Lab_118" />
-        <item itemvalue="Python.Lab_106" />
-        <item itemvalue="Python.Lab050" />
+        <item itemvalue="Python tests.pytest for test_lab160_pytest_GetRequest.test_get_request_positive" />
+        <item itemvalue="Python.test_Lab159" />
+        <item itemvalue="Python tests.pytest for test_lab158.test_method2" />
+        <item itemvalue="Python tests.pytest for test_lab158.test_method3" />
+        <item itemvalue="Python tests.Python tests for test_lab157.test_test_case_2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -687,7 +752,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733663628686</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="9-12-2024 files are pushed">
+      <option name="closed" value="true" />
+      <created>1733709919309</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1733709919309</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
