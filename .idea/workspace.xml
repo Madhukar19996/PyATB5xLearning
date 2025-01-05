@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="29-12-2024 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/test_Lab162_Pytest_Learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/test_Lab163_Pytest_POST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/test_Lab165_Pytest_POST_Token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/test_Lab166_Pytest_POST_Token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module/test_lab164_pytest_post.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="01-01-2025 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read/test_csv_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read/userdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/test_Fixture_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/test_fixture_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/test_fixture_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/test_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/test_web_automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +48,9 @@
     &quot;accountId&quot;: &quot;003fde11-e5d0-4cff-bbe5-df7fbac26059&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/conftest.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -59,16 +68,27 @@
     "Python tests.Python tests for test_lab157.test_test_case_1.executor": "Run",
     "Python tests.Python tests for test_lab157.test_test_case_2.executor": "Run",
     "Python tests.Python tests in test_lab157.py.executor": "Run",
+    "Python tests.pytest for conftest.test_create_token.executor": "Run",
+    "Python tests.pytest for test_Fixture_demo.test_update.executor": "Run",
     "Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_negative_tc1.executor": "Run",
     "Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_positive_tc1.executor": "Run",
     "Python tests.pytest for test_Lab165_Pytest_POST_Token.test_create_token.executor": "Run",
     "Python tests.pytest for test_Lab166_Pytest_POST_Token.test_delete.executor": "Run",
     "Python tests.pytest for test_Lab166_Pytest_POST_Token.test_put_request.executor": "Run",
+    "Python tests.pytest for test_csv_read.Test_READ.test_read_csv.executor": "Run",
+    "Python tests.pytest for test_csv_read.Test_READ.test_read_pandas.executor": "Run",
+    "Python tests.pytest for test_fixture_demo1.test_put.executor": "Run",
+    "Python tests.pytest for test_fixture_demo1.test_put_2.executor": "Run",
+    "Python tests.pytest for test_fixture_demo2.test_update_req_1.executor": "Run",
     "Python tests.pytest for test_lab158.test_method2.executor": "Run",
     "Python tests.pytest for test_lab158.test_method3.executor": "Run",
     "Python tests.pytest for test_lab160_pytest_GetRequest.test_get_request_positive.executor": "Run",
+    "Python tests.pytest for test_update.test_update_req_1.executor": "Run",
+    "Python tests.pytest for test_web_automation.test_selenium.executor": "Run",
+    "Python tests.pytest in conftest.py.executor": "Run",
     "Python tests.pytest in ex_25122024.executor": "Run",
     "Python tests.pytest in test_Lab159.py.executor": "Run",
+    "Python tests.pytest in test_csv_read.py.executor": "Run",
     "Python tests.pytest in test_lab157.py.executor": "Run",
     "Python tests.pytest in test_lab158.py.executor": "Run",
     "Python tests.pytest in test_lab161.py.executor": "Run",
@@ -273,89 +293,89 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Mp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_Lab166_Pytest_POST_Token.test_delete">
-    <configuration name="pytest for test_Lab163_Pytest_POST.test_create_booking_negative_tc1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="pytest for conftest.test_create_token" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab163_Pytest_POST.test_create_booking_negative_tc1&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_create_token&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab163_Pytest_POST.test_create_booking_positive_tc1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_csv_read.Test_READ.test_read_csv" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab163_Pytest_POST.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_target" value="&quot;test_csv_read.Test_READ.test_read_csv&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab165_Pytest_POST_Token.test_create_token" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_csv_read.Test_READ.test_read_pandas" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab165_Pytest_POST_Token.test_create_token&quot;" />
+      <option name="_new_target" value="&quot;test_csv_read.Test_READ.test_read_pandas&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab166_Pytest_POST_Token.test_delete" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_update.test_update_req_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab166_Pytest_POST_Token.test_delete&quot;" />
+      <option name="_new_target" value="&quot;test_update.test_update_req_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab166_Pytest_POST_Token.test_put_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_web_automation.test_selenium" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Dec/ex_31122024_PyTest_Request_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab166_Pytest_POST_Token.test_put_request&quot;" />
+      <option name="_new_target" value="&quot;test_web_automation.test_selenium&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -416,19 +436,19 @@
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_Lab159.py" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_lab161.py" />
-      <item itemvalue="Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_negative_tc1" />
-      <item itemvalue="Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_positive_tc1" />
-      <item itemvalue="Python tests.pytest for test_Lab165_Pytest_POST_Token.test_create_token" />
-      <item itemvalue="Python tests.pytest for test_Lab166_Pytest_POST_Token.test_delete" />
-      <item itemvalue="Python tests.pytest for test_Lab166_Pytest_POST_Token.test_put_request" />
+      <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_csv" />
+      <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_pandas" />
+      <item itemvalue="Python tests.pytest for test_update.test_update_req_1" />
+      <item itemvalue="Python tests.pytest for test_web_automation.test_selenium" />
+      <item itemvalue="Python tests.pytest for conftest.test_create_token" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_Lab166_Pytest_POST_Token.test_delete" />
-        <item itemvalue="Python tests.pytest for test_Lab166_Pytest_POST_Token.test_put_request" />
-        <item itemvalue="Python tests.pytest for test_Lab165_Pytest_POST_Token.test_create_token" />
-        <item itemvalue="Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_negative_tc1" />
-        <item itemvalue="Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_positive_tc1" />
+        <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_pandas" />
+        <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_csv" />
+        <item itemvalue="Python tests.pytest for conftest.test_create_token" />
+        <item itemvalue="Python tests.pytest for test_web_automation.test_selenium" />
+        <item itemvalue="Python tests.pytest for test_update.test_update_req_1" />
       </list>
     </recent_temporary>
   </component>
@@ -800,7 +820,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735447283836</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="01-01-2025 files are pushed">
+      <option name="closed" value="true" />
+      <created>1735996862664</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1735996862664</updated>
+    </task>
+    <task id="LOCAL-00046" summary="01-01-2025 files are pushed">
+      <option name="closed" value="true" />
+      <created>1735996970393</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1735996970393</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -815,7 +851,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth Commit" />
@@ -840,7 +875,8 @@
     <MESSAGE value="1-12-2024 files are pushed" />
     <MESSAGE value="9-12-2024 files are pushed" />
     <MESSAGE value="29-12-2024 files are pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="29-12-2024 files are pushed" />
+    <MESSAGE value="01-01-2025 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="01-01-2025 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -878,6 +914,11 @@
           <url>file://$PROJECT_DIR$/scr/Task/Nov_Task/Tasks_22112024_Upper_and_Lower_Tri/Pepper_problem.py</url>
           <line>19</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Jan/ex_02012025_Fixture/conftest.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
