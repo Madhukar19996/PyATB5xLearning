@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="02-01-2025 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test01_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test02_selenium2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test03_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test04_selenium_commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test05_selenium_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test06_selenium_multiple_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test07_selenium_close_quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test08_task_mini_selenium_project.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="13-01-2025 files are pushed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -853,7 +844,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736055312883</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="13-01-2025 files are pushed">
+      <option name="closed" value="true" />
+      <created>1736738442764</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738442764</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -868,7 +867,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth Commit" />
     <MESSAGE value="Fifth Commit" />
     <MESSAGE value="All the files are updated till now commit" />
@@ -893,7 +891,8 @@
     <MESSAGE value="29-12-2024 files are pushed" />
     <MESSAGE value="01-01-2025 files are pushed" />
     <MESSAGE value="02-01-2025 files are pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="02-01-2025 files are pushed" />
+    <MESSAGE value="13-01-2025 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="13-01-2025 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
