@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="13-01-2025 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test09_Selenium_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test10_Selenium_locators_Options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test11_Selenium_locators_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test12_Selenium_locators_miniproject_freetrail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test13_Selenium_locators_miniproject_tagName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test14_Selenium_locators_miniproject_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_allure_results/4cafdca2-abde-498e-a77c-56f8b839f736-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_allure_results/4cafdca2-abde-498e-a77c-56f8b839f736-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/.env" beforeDir="false" afterPath="$PROJECT_DIR$/scr/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_121.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Nov/ex_14112024/Lab_121.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +69,17 @@
     "Python tests.pytest for conftest.test_create_token.executor": "Run",
     "Python tests.pytest for test03_selenium.test_vwo_sample.executor": "Run",
     "Python tests.pytest for test04_selenium_commands.test_vwo_sample.executor": "Run",
+    "Python tests.pytest for test09_Selenium_locators.test_katalon_chrome.executor": "Run",
+    "Python tests.pytest for test10_Selenium_locators_Options.test_katalon_chrome.executor": "Run",
+    "Python tests.pytest for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.pytest for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.pytest for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_personal_demo_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_sales_pack_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.test_click_adv_pack_chrome.executor": "Run",
+    "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_title_chrome.executor": "Run",
     "Python tests.pytest for test_Fixture_demo.test_update.executor": "Run",
     "Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_negative_tc1.executor": "Run",
     "Python tests.pytest for test_Lab163_Pytest_POST.test_create_booking_positive_tc1.executor": "Run",
@@ -79,6 +100,7 @@
     "Python tests.pytest for test_web_automation.test_selenium.executor": "Run",
     "Python tests.pytest in conftest.py.executor": "Run",
     "Python tests.pytest in ex_25122024.executor": "Run",
+    "Python tests.pytest in test13_Selenium_locators_miniproject_tagName.py.executor": "Run",
     "Python tests.pytest in test_Lab159.py.executor": "Run",
     "Python tests.pytest in test_csv_read.py.executor": "Run",
     "Python tests.pytest in test_lab157.py.executor": "Run",
@@ -259,6 +281,7 @@
     "Python.Tasks_Opps_Concept.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
+    "Python.test13_Selenium_locators_miniproject_tagName.executor": "Run",
     "Python.test_Lab159.executor": "Run",
     "Python.test_lab157.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -285,89 +308,89 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Mp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test04_selenium_commands.test_vwo_sample">
-    <configuration name="pytest for scr.Jan.ex_09012025_Selenium.test01_Selenium.test_VWO_Login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome">
+    <configuration name="pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;scr.Jan.ex_09012025_Selenium.test01_Selenium.test_VWO_Login&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for scr.Jan.ex_09012025_Selenium.test02_selenium2.test_VWO_Login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test14_Selenium_locators_miniproject_Task.test_click_personal_demo_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;scr.Jan.ex_09012025_Selenium.test02_selenium2.test_VWO_Login&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_miniproject_Task.test_click_personal_demo_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test03_selenium.test_vwo_sample" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test14_Selenium_locators_miniproject_Task.test_click_sales_pack_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test03_selenium.test_vwo_sample&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_miniproject_Task.test_click_sales_pack_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test04_selenium_commands.test_vwo_sample" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test04_selenium_commands.test_vwo_sample&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_miniproject_Task.test_verify_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_csv_read.Test_READ.test_read_csv" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.test_click_adv_pack_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_02012025_CSV_Read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_16012025_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_csv_read.Test_READ.test_read_csv&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.test_click_adv_pack_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -428,19 +451,19 @@
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_Lab159.py" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_lab161.py" />
-      <item itemvalue="Python tests.pytest for test03_selenium.test_vwo_sample" />
-      <item itemvalue="Python tests.pytest for test04_selenium_commands.test_vwo_sample" />
-      <item itemvalue="Python tests.pytest for scr.Jan.ex_09012025_Selenium.test01_Selenium.test_VWO_Login" />
-      <item itemvalue="Python tests.pytest for scr.Jan.ex_09012025_Selenium.test02_selenium2.test_VWO_Login" />
-      <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_csv" />
+      <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome" />
+      <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_personal_demo_chrome" />
+      <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_sales_pack_chrome" />
+      <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome" />
+      <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.test_click_adv_pack_chrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test04_selenium_commands.test_vwo_sample" />
-        <item itemvalue="Python tests.pytest for test03_selenium.test_vwo_sample" />
-        <item itemvalue="Python tests.pytest for scr.Jan.ex_09012025_Selenium.test02_selenium2.test_VWO_Login" />
-        <item itemvalue="Python tests.pytest for scr.Jan.ex_09012025_Selenium.test01_Selenium.test_VWO_Login" />
-        <item itemvalue="Python tests.pytest for test_csv_read.Test_READ.test_read_csv" />
+        <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome" />
+        <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_personal_demo_chrome" />
+        <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_sales_pack_chrome" />
+        <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome.test_click_adv_pack_chrome" />
+        <item itemvalue="Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_verify_login_chrome" />
       </list>
     </recent_temporary>
   </component>
@@ -940,6 +963,11 @@
           <url>file://$PROJECT_DIR$/scr/Jan/ex_09012025_Selenium/test01_Selenium.py</url>
           <line>8</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scr/Jan/ex_16012025_Locators/test10_Selenium_locators_Options.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
