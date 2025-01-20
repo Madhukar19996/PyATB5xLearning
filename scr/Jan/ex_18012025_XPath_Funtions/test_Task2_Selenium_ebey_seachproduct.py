@@ -11,11 +11,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-@allure.title("Selenium Mini project- Locator-XPATH")
-@allure.description("TC1 - Positive TC - display the item name and price ")
+@allure.title("scrape on ebay site for Mac mini")
+@allure.description("TC1 - Positive TC - display the item name and price are scarped successfully")
 @pytest.mark.Positive
 def test_Get_title_price():
-    driver =webdriver.Chrome()
+    driver =webdriver.Edge()
     driver.get("https://www.ebay.com/b/Desktops-All-In-One-Computers/171957/bn_1643067")
     #print("Title of the webpage:",driver.title)
     time.sleep(5)
@@ -35,7 +35,7 @@ def test_Get_title_price():
     total_li = len(li_elements)
     print(f"Total number of 'li' elements: {total_li}")
 
-    for i in range(0,total_li):
+    for i in range(1,total_li):
         #get xpath for the title of the item
         xpath_1 = f"//ul/li/div/div[2]/a"
         web_element_text = driver.find_element(By.XPATH, xpath_1)
