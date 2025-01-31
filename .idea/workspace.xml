@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="27-01-2025 files are pushed">
-      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test117_Webtable_Dynamic.py" afterDir="false" />
+    <list default="true" id="5d39f8ef-79bf-415b-8db1-8fbddb732891" name="Changes" comment="30-01-2025 files are pushed">
+      <change afterPath="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts/test121_alerts_js.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts/test122_modal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts/test123_Makemytrip_Modals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_27012025_Webtables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_31012025_Selenium_Waits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_31012025_Selenium_Waits/test118_Waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_31012025_Selenium_Waits/test119_Excplicit_Waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Jan/ex_31012025_Selenium_Waits/test120_Fluent_Waits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test115_Selenium_Webtable2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test115_Selenium_Webtable2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Feb/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test115_Selenium_Webtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Jan/ex_27012025_Webtables/test115_Selenium_Webtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test115_Selenium_Webtable2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Jan/ex_27012025_Webtables/test115_Selenium_Webtable2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables/test117_Webtable_Dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Jan/ex_27012025_Webtables/test117_Webtable_Dynamic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +78,13 @@
     "Python tests.pytest for test115_Selenium_Webtable2.test_web_tables.executor": "Run",
     "Python tests.pytest for test117_Webtable_Dynamic.test_web_tables.executor": "Run",
     "Python tests.pytest for test117_Webtable_Dynamic.test_web_tables_status.executor": "Run",
+    "Python tests.pytest for test118_Waits.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.pytest for test119_Excplicit_Waits.test_negative_app_vwo_com.executor": "Run",
     "Python tests.pytest for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.pytest for test121_alerts_js.test_alerts_js_alert_normal.executor": "Run",
+    "Python tests.pytest for test121_alerts_js.test_alerts_prompt.executor": "Run",
+    "Python tests.pytest for test122_modal.test_alerts_js_alert_normal.executor": "Run",
+    "Python tests.pytest for test123_Makemytrip_Modals.test_alerts_js_alert_normal.executor": "Run",
     "Python tests.pytest for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test14_Selenium_locators_miniproject_Task.test_click_adv_pack_chrome.executor": "Run",
@@ -300,96 +317,96 @@
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Oct\ex_27102024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Feb" />
+      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Jan\ex_16012025_Locators" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr" />
       <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Exceptions_and_filehandling " />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Task\Nov_Task" />
-      <recent name="C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\Nov\ex_25112024\Mp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test117_Webtable_Dynamic.test_web_tables_status">
-    <configuration name="pytest for test115_Selenium_Webtable2.test_web_tables" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test123_Makemytrip_Modals.test_alerts_js_alert_normal">
+    <configuration name="pytest for test118_Waits.test_negative_app_vwo_com" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_31012025_Selenium_Waits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test115_Selenium_Webtable2.test_web_tables&quot;" />
+      <option name="_new_target" value="&quot;test118_Waits.test_negative_app_vwo_com&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test115_Selenium_Webtable.test_web_tables" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test121_alerts_js.test_alerts_js_alert_normal" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test115_Selenium_Webtable.test_web_tables&quot;" />
+      <option name="_new_target" value="&quot;test121_alerts_js.test_alerts_js_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test117_Webtable_Dynamic.test_web_tables" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test121_alerts_js.test_alerts_prompt" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test117_Webtable_Dynamic.test_web_tables&quot;" />
+      <option name="_new_target" value="&quot;test121_alerts_js.test_alerts_prompt&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test117_Webtable_Dynamic.test_web_tables_status" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test122_modal.test_alerts_js_alert_normal" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_270102025_Webtables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test117_Webtable_Dynamic.test_web_tables_status&quot;" />
+      <option name="_new_target" value="&quot;test122_modal.test_alerts_js_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Task2_Selenium_ebey_seachproduct.test_scrape_ebay" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test123_Makemytrip_Modals.test_alerts_js_alert_normal" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Jan/ex_18012025_XPath_Funtions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr/Feb/ex_01022025_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Task2_Selenium_ebey_seachproduct.test_scrape_ebay&quot;" />
+      <option name="_new_target" value="&quot;test123_Makemytrip_Modals.test_alerts_js_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -450,19 +467,19 @@
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_Lab159.py" />
       <item itemvalue="Python tests.pytest in C:\Users\Madhukar Pandey\PycharmProjects\pyATB5xLearning\scr\DEC\ex_25122024\test_lab161.py" />
-      <item itemvalue="Python tests.pytest for test117_Webtable_Dynamic.test_web_tables_status" />
-      <item itemvalue="Python tests.pytest for test117_Webtable_Dynamic.test_web_tables" />
-      <item itemvalue="Python tests.pytest for test115_Selenium_Webtable2.test_web_tables" />
-      <item itemvalue="Python tests.pytest for test115_Selenium_Webtable.test_web_tables" />
-      <item itemvalue="Python tests.pytest for test_Task2_Selenium_ebey_seachproduct.test_scrape_ebay" />
+      <item itemvalue="Python tests.pytest for test118_Waits.test_negative_app_vwo_com" />
+      <item itemvalue="Python tests.pytest for test121_alerts_js.test_alerts_js_alert_normal" />
+      <item itemvalue="Python tests.pytest for test121_alerts_js.test_alerts_prompt" />
+      <item itemvalue="Python tests.pytest for test122_modal.test_alerts_js_alert_normal" />
+      <item itemvalue="Python tests.pytest for test123_Makemytrip_Modals.test_alerts_js_alert_normal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test117_Webtable_Dynamic.test_web_tables_status" />
-        <item itemvalue="Python tests.pytest for test117_Webtable_Dynamic.test_web_tables" />
-        <item itemvalue="Python tests.pytest for test115_Selenium_Webtable2.test_web_tables" />
-        <item itemvalue="Python tests.pytest for test115_Selenium_Webtable.test_web_tables" />
-        <item itemvalue="Python tests.pytest for test_Task2_Selenium_ebey_seachproduct.test_scrape_ebay" />
+        <item itemvalue="Python tests.pytest for test123_Makemytrip_Modals.test_alerts_js_alert_normal" />
+        <item itemvalue="Python tests.pytest for test122_modal.test_alerts_js_alert_normal" />
+        <item itemvalue="Python tests.pytest for test121_alerts_js.test_alerts_prompt" />
+        <item itemvalue="Python tests.pytest for test121_alerts_js.test_alerts_js_alert_normal" />
+        <item itemvalue="Python tests.pytest for test118_Waits.test_negative_app_vwo_com" />
       </list>
     </recent_temporary>
   </component>
@@ -481,14 +498,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730002402842</updated>
-    </task>
-    <task id="LOCAL-00007" summary="All the files are updated till now commit">
-      <option name="closed" value="true" />
-      <created>1730115772007</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1730115772007</updated>
     </task>
     <task id="LOCAL-00008" summary="All the files are updated till now commit">
       <option name="closed" value="true" />
@@ -874,7 +883,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737954773926</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="30-01-2025 files are pushed">
+      <option name="closed" value="true" />
+      <created>1738208608350</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1738208608357</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -889,7 +906,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="All the  11 files are updated till now commit" />
     <MESSAGE value="All the  12 files are updated till now commit" />
     <MESSAGE value="All the updated files are updated till now commit" />
     <MESSAGE value="All the four  files are updated till now commit" />
@@ -914,7 +930,8 @@
     <MESSAGE value="18-01-2025 files are pushed" />
     <MESSAGE value="19-01-2025 files are pushed" />
     <MESSAGE value="27-01-2025 files are pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="27-01-2025 files are pushed" />
+    <MESSAGE value="30-01-2025 files are pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="30-01-2025 files are pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
