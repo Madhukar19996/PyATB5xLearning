@@ -24,7 +24,13 @@ def test_verify_action_keyboard():
      .send_keys_to_element(first_name,"madhukar")
      .key_up(Keys.SHIFT)
      .perform())
-    time.sleep(3)
+
+    (actions
+     .key_down(Keys.SHIFT)
+     .send_keys_to_element(last_name, "pandey")
+     .key_up(Keys.SHIFT)
+     .perform())
+    time.sleep(8)
 
     # actions = ActionChains(driver=driver)
     # (actions
@@ -33,5 +39,5 @@ def test_verify_action_keyboard():
     #  .key_up(Keys.SHIFT)
     #  .perform())
 
-    time.sleep(10)
+    time.sleep(2)
     driver.quit()
